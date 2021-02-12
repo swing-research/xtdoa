@@ -1,8 +1,10 @@
 Localizing Unsynchronized Sensors with Unknown Sources
 ================================================================
 
-This repository contains the code and data to reproduce the results of the paper "Localizing Unsynchronized Sensors with Unknown Sources". 
-  
+This repository contains the code and data to reproduce the results of the paper [*Localizing Unsynchronized Sensors with Unknown Sources*](https://arxiv.org/abs/2102.03565).
+
+
+ 
 
 Abstract
 --------

@@ -1,7 +1,7 @@
 Localizing Unsynchronized Sensors with Unknown Sources
 ================================================================
 
-This folder contains the MATLAB code to reproduce the results of the paper "Localizing Unsynchronized Sensors with Unknown Sources".
+This folder contains the MATLAB code to reproduce the results of the paper [*Localizing Unsynchronized Sensors with Unknown Sources*](https://arxiv.org/abs/2102.03565).
 
 
 Description
